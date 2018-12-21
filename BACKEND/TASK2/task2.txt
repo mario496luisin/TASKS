@@ -1,0 +1,3 @@
+this code is not a code, you dont declare any variables, it could be a javascript file as you can see the for loop or print
+but you dont specify any variables so if you write this you will see a warning or error in the console in the browser. 
+So the output would be an error. It doesnt acomplish the coding protocol so the browser will read it as plain text.
